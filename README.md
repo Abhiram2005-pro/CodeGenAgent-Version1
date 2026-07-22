@@ -425,7 +425,7 @@ GitHub:
 https://github.com/Abhiram2005-pro
 
 LinkedIn:
-(Add your LinkedIn)
+https://www.linkedin.com/in/abhiramvattikuti/
 
 ---
 
