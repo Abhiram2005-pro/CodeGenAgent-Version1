@@ -255,14 +255,7 @@ Repeat until success
 
 ---
 
-# 💻 Installation
 
-```bash
-git clone https://github.com/<username>/AutoDev-Agent.git
-
-cd AutoDev-Agent
-
-pip install -r requirements.txt
 ```
 
 ---
