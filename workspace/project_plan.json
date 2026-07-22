@@ -1,0 +1,47 @@
+{
+    "project_name": "Calculator",
+    "description": "A simple command-line calculator application in Python.",
+    "language": "Python",
+    "framework": "",
+    "folders": [
+        "src",
+        "tests"
+    ],
+    "files": [
+        {
+            "path": "README.md",
+            "language": "Markdown",
+            "purpose": "Project documentation."
+        },
+        {
+            "path": "requirements.txt",
+            "language": "Text",
+            "purpose": "List of dependencies."
+        },
+        {
+            "path": "main.py",
+            "language": "Python",
+            "purpose": "Main entry point of the application."
+        },
+        {
+            "path": "src/__init__.py",
+            "language": "Python",
+            "purpose": "Marker for Python package."
+        },
+        {
+            "path": "src/calculator.py",
+            "language": "Python",
+            "purpose": "Contains the Calculator class and its methods."
+        },
+        {
+            "path": "tests/__init__.py",
+            "language": "Python",
+            "purpose": "Marker for Python package."
+        },
+        {
+            "path": "tests/test_calculator.py",
+            "language": "Python",
+            "purpose": "Unit tests for the Calculator class."
+        }
+    ]
+}
